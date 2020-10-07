@@ -9,7 +9,7 @@
     <Grid>
         <StackPanel>
             <TextBox Text="{Binding Text}"/>
-            <Button  Command="{Binding HiButtonCommand}" CommandParameter="Hai" Content="{Binding HiButtonContent}"  Width="100" Height="30" />
+            <Button  Command="{Binding HiButtonCommand}" CommandParameter="Das per Parameter" Content="{Binding HiButtonContent}"  Width="100" Height="30" />
             
         </StackPanel>
     </Grid>

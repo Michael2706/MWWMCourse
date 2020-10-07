@@ -56,7 +56,7 @@ namespace MWWMCourse
 
         public void ChangeText(object tt)
         {
-            Text = "Bye bye";
+            Text = (string) tt;
         }
 
         public string ButtonContent
