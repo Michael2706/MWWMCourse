@@ -23,6 +23,10 @@ namespace MWWMCourse
         public MainWindow()
         {
             InitializeComponent();
+
+            DataContext = new ViewModel();
+
+
         }
     }
 }

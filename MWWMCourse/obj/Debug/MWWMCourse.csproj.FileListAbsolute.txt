@@ -1,0 +1,15 @@
+C:\Users\Michael\source\repos\MWWMCourse\MWWMCourse\bin\Debug\MWWMCourse.exe.config
+C:\Users\Michael\source\repos\MWWMCourse\MWWMCourse\bin\Debug\MWWMCourse.exe
+C:\Users\Michael\source\repos\MWWMCourse\MWWMCourse\bin\Debug\MWWMCourse.pdb
+C:\Users\Michael\source\repos\MWWMCourse\MWWMCourse\obj\Debug\MWWMCourse.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\MWWMCourse\MWWMCourse\obj\Debug\MainWindow.g.cs
+C:\Users\Michael\source\repos\MWWMCourse\MWWMCourse\obj\Debug\App.g.cs
+C:\Users\Michael\source\repos\MWWMCourse\MWWMCourse\obj\Debug\MWWMCourse_MarkupCompile.cache
+C:\Users\Michael\source\repos\MWWMCourse\MWWMCourse\obj\Debug\MWWMCourse_MarkupCompile.lref
+C:\Users\Michael\source\repos\MWWMCourse\MWWMCourse\obj\Debug\MainWindow.baml
+C:\Users\Michael\source\repos\MWWMCourse\MWWMCourse\obj\Debug\MWWMCourse.g.resources
+C:\Users\Michael\source\repos\MWWMCourse\MWWMCourse\obj\Debug\MWWMCourse.Properties.Resources.resources
+C:\Users\Michael\source\repos\MWWMCourse\MWWMCourse\obj\Debug\MWWMCourse.csproj.GenerateResource.cache
+C:\Users\Michael\source\repos\MWWMCourse\MWWMCourse\obj\Debug\MWWMCourse.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\MWWMCourse\MWWMCourse\obj\Debug\MWWMCourse.exe
+C:\Users\Michael\source\repos\MWWMCourse\MWWMCourse\obj\Debug\MWWMCourse.pdb

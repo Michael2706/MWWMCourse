@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <StackPanel>
+            <TextBox Text="{Binding Text}"/>
+            <Button  Command="{Binding HiButtonCommand}" CommandParameter="Hai" Content="{Binding HiButtonContent}"  Width="100" Height="30" />
+            
+        </StackPanel>
     </Grid>
 </Window>
